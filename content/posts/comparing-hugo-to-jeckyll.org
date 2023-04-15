@@ -1,0 +1,25 @@
+#+title: Comparing Hugo to Jeckyll
+#+date:  2023-04-15T15:47:52-06:00
+
+Static site generators have become increasingly popular in recent years. They offer an efficient way to create websites that are fast, secure, and easy to maintain. Among these generators, Hugo and Jekyll are two of the most popular ones. In this blog post, we’ll compare these two generators and help you decide which one is the best for your needs.
+* Introduction to Hugo and Jekyll
+Hugo is a static site generator written in the Go programming language. It was created by Steve Francia and released in 2013. Hugo is known for its speed and simplicity. It’s one of the fastest static site generators and is used by many developers and bloggers.
+
+Jekyll, on the other hand, is a static site generator written in Ruby. It was created by Tom Preston-Werner in 2008. Jekyll is also known for its simplicity, ease of use, and flexibility. It’s been used by many developers, bloggers, and even larger organizations like GitHub Pages.
+* Template and Theme Support
+Both Hugo and Jekyll offer a wide range of templates and themes that you can use to customize your website. Hugo has a built-in templating system called Go templates. It’s easy to learn and use, and there are many third-party templates available for free.
+
+Jekyll uses Liquid templates, which are also easy to use and are widely supported. There are many Jekyll themes available on GitHub and other websites. However, it’s worth noting that Jekyll has more themes available than Hugo due to its popularity and longer history.
+* Speed
+As mentioned earlier, Hugo is known for its speed. It’s one of the fastest static site generators available. Hugo’s build time is usually measured in milliseconds, and it can handle even large websites with ease. On the other hand, Jekyll’s build time is relatively slow compared to Hugo. Jekyll can take several seconds or even minutes to build a large website, depending on the number of pages and the complexity of the site.
+* Documentation and Community Support
+Both Hugo and Jekyll have excellent documentation and community support. Hugo’s documentation is comprehensive and easy to follow. There’s also an active community of developers and users who are always ready to help with any questions or issues.
+
+Jekyll’s documentation is also well-written, and there’s a large community of developers and users who are always willing to help. Because of its longer history and wider adoption, Jekyll has a more extensive community than Hugo.
+* Hosting and Deployment
+Both Hugo and Jekyll can be deployed on any hosting platform that supports static websites. You can use services like Netlify, GitHub Pages, or Amazon S3 to host your website.
+* Conclusion
+In conclusion, both Hugo and Jekyll are excellent static site generators that offer many benefits. Hugo is known for its speed, simplicity, and easy-to-learn templating system. Jekyll, on the other hand, is also easy to use and has a larger community and more themes available.
+
+When choosing between Hugo and Jekyll, consider your specific needs and requirements. If speed is a priority, and you want a straightforward templating system, Hugo is an excellent choice. On the other hand, if you prefer a larger community and more themes, Jekyll might be the better option.
+
