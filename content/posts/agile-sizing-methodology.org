@@ -1,4 +1,4 @@
-#+title: "Agile Sizing Methodology: Enhancing Estimation and Confidence in Sprint Planning"
+#+title: Agile Sizing Methodology: Enhancing Estimation and Confidence in Sprint Planning
 #+date:  2023-04-21T16:15:46-06:00
 #+draft: false
 
